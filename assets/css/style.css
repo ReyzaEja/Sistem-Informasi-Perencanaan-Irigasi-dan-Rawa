@@ -1,0 +1,116 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+}
+
+.navbar-inverse {
+    background-color: #ffffff;
+    border-color: #eee;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #fff;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #3c8dbc;
+}
+
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
+    color: #3c8dbc;
+}
+
+.navbar-brand {
+    float: left;
+    font-size: 20px;
+    height: 70px;
+    line-height: 42px;
+    padding: 15px;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+    background-color: #fff;
+    color: #3c8dbc;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
+    background-color: #fff;
+    color: #3c8dbc;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #555555;
+    border-top: 3px solid #fff;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #3c8dbc;
+    border-top: 3px solid #3c8dbc;
+}
+
+
+.navbar-nav > li > a {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    line-height: 40px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+header.carousel {
+    height: 90%;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.daftar i {
+    font-size: 70px;
+    color: #3c8dbc;
+    border: 1px solid #3c8dbc;
+    border-radius: 50%;
+    padding: 25px 35px 25px 35px;
+}
+
+.verifikasi i {
+    font-size: 70px;
+    color: #3c8dbc;
+    border: 1px solid #3c8dbc;
+    border-radius: 50%;
+    padding: 25px 27px 25px 27px;
+}
+
+.wkpl i {
+    font-size: 70px;
+    color: #3c8dbc;
+    border: 1px solid #3c8dbc;
+    border-radius: 50%;
+    padding: 25px 32px 25px 32px;
+}
+
+footer {
+    background: #34495e none repeat scroll 0 0;
+    padding: 25px 0 15px 0;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+	color: #fff;
+}
+
+footer a {
+	color: #fff;
+}
+
+footer a:hover {
+	color: #3c8dbc;
+	text-decoration: none;
+}
+
